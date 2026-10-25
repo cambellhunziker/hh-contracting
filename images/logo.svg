@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" role="img" aria-label="H&amp;H Contracting">
+  <!-- Roof and chimney: accent color -->
+  <rect x="86" y="12" width="9" height="22" fill="#D9541E"/>
+  <polyline points="8,48 60,10 112,48" fill="none" stroke="#D9541E" stroke-width="7" stroke-linejoin="miter"/>
+  <!-- The two H's: white -->
+  <rect x="22" y="52" width="9" height="42" fill="#FFFFFF"/>
+  <rect x="44" y="52" width="9" height="42" fill="#FFFFFF"/>
+  <rect x="22" y="69" width="31" height="8" fill="#FFFFFF"/>
+  <rect x="67" y="52" width="9" height="42" fill="#FFFFFF"/>
+  <rect x="89" y="52" width="9" height="42" fill="#FFFFFF"/>
+  <rect x="67" y="69" width="31" height="8" fill="#FFFFFF"/>
+</svg>
