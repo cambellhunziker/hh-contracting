@@ -157,3 +157,7 @@ p { margin: 0; }
 
 /* Keyboard focus for links and buttons */
 a:focus-visible, .btn:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+.site-footer a { color: var(--on-dark-muted); }
+.site-footer a:hover { color: #FFFFFF; }
+.contact-details a { overflow-wrap: anywhere; }
