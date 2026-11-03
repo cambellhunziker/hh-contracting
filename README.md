@@ -1,6 +1,6 @@
-# H&H Contracting website
+# H&H Contracting and Consulting LLC website
 
-A simple one-page website for H&H Contracting, ready to host for free on GitHub Pages.
+A simple one-page website for H&H Contracting and Consulting LLC, ready to host for free on GitHub Pages.
 
 ## Files
 
