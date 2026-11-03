@@ -1,21 +1,21 @@
 /* =========================================================
    COLOR SCHEME — change these values to re-color the site.
-   (Current scheme: Charcoal & Safety Orange)
+   (Current scheme: Foundation Navy & Copper)
    ========================================================= */
 :root {
-  --primary:      #26282B; /* Charcoal: header, dark sections, footer, headings */
-  --accent:       #D9541E; /* Safety Orange: buttons, logo roof, rules */
-  --accent-text:  #B23F10; /* Darker orange for small text on light backgrounds */
-  --button-text:  #14130F; /* Text color on accent buttons */
-  --background:   #F2F2EF; /* Fog: page background */
+  --primary:      #1E2B34; /* Foundation Navy: header, dark sections, footer, headings */
+  --accent:       #A84A22; /* Copper: buttons, logo roof, rules */
+  --accent-text:  #A84A22; /* Copper for small text on light backgrounds */
+  --button-text:  #FFFFFF; /* Text color on accent buttons */
+  --background:   #F4F0E8; /* Plaster: page background */
   --surface:      #FFFFFF; /* Cards and alternating sections */
-  --warm:         #C8A27A; /* Kraft: small highlights on dark sections */
-  --body-text:    #43464A; /* Paragraph text */
-  --muted-text:   #5C6166; /* Placeholder / secondary text */
-  --border:       #D9D9D4; /* Card borders */
-  --input-border: #7D8287; /* Form field borders */
-  --on-dark:      #F2F2EF; /* Text on dark sections */
-  --on-dark-muted:#C9CCCF; /* Secondary text on dark sections */
+  --warm:         #D8C7A3; /* Sawdust: small highlights on dark sections */
+  --body-text:    #3D4950; /* Paragraph text */
+  --muted-text:   #5E666A; /* Placeholder / secondary text */
+  --border:       #D8D2C6; /* Card borders */
+  --input-border: #8C9396; /* Concrete: form field borders */
+  --on-dark:      #F4F0E8; /* Text on dark sections */
+  --on-dark-muted:#C9CDCF; /* Secondary text on dark sections */
 
   --font-heading: 'Oswald', 'Arial Narrow', sans-serif;
   --font-body:    'Source Sans 3', system-ui, sans-serif;

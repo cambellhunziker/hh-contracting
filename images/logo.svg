@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-label="H&amp;H Contracting and Consulting LLC">
-  <!-- Contractor's Seal. Ring/text color: #F2F2EF (light, for the dark header). Accent (roof + dots): #D9541E -->
+  <!-- Contractor's Seal. Ring/text color: #F4F0E8 (light, for the dark header). Accent (roof + dots): #A84A22 -->
   <defs><path id="sealArc" d="M 27.56,94.5 A 49,49 0 1,1 112.44,94.5"/></defs>
-  <circle cx="70" cy="70" r="62" fill="none" stroke="#F2F2EF" stroke-width="5"/>
-  <circle cx="70" cy="70" r="42" fill="none" stroke="#F2F2EF" stroke-width="1.5"/>
-  <text font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="11" letter-spacing="0.6" fill="#F2F2EF"><textPath href="#sealArc" startOffset="8" textLength="189" lengthAdjust="spacingAndGlyphs">CONTRACTING AND CONSULTING LLC</textPath></text>
-  <circle cx="56" cy="118" r="2" fill="#D9541E"/>
-  <circle cx="70" cy="120" r="2" fill="#D9541E"/>
-  <circle cx="84" cy="118" r="2" fill="#D9541E"/>
-  <polyline points="50,62 70,47 90,62" fill="none" stroke="#D9541E" stroke-width="4"/>
-  <text x="70" y="92" text-anchor="middle" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="28" fill="#F2F2EF">H&amp;H</text>
+  <circle cx="70" cy="70" r="62" fill="none" stroke="#F4F0E8" stroke-width="5"/>
+  <circle cx="70" cy="70" r="42" fill="none" stroke="#F4F0E8" stroke-width="1.5"/>
+  <text font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="11" letter-spacing="0.6" fill="#F4F0E8"><textPath href="#sealArc" startOffset="8" textLength="189" lengthAdjust="spacingAndGlyphs">CONTRACTING AND CONSULTING LLC</textPath></text>
+  <circle cx="56" cy="118" r="2" fill="#A84A22"/>
+  <circle cx="70" cy="120" r="2" fill="#A84A22"/>
+  <circle cx="84" cy="118" r="2" fill="#A84A22"/>
+  <polyline points="50,62 70,47 90,62" fill="none" stroke="#A84A22" stroke-width="4"/>
+  <text x="70" y="92" text-anchor="middle" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="28" fill="#F4F0E8">H&amp;H</text>
 </svg>
