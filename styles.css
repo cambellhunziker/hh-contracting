@@ -75,7 +75,7 @@ p { margin: 0; }
   gap: 16px 32px; padding-top: 18px; padding-bottom: 18px;
 }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
-.brand img { width: 56px; height: auto; }
+.brand img { width: 112px; height: 112px; }
 .brand-text { display: flex; flex-direction: column; line-height: 1; color: #FFFFFF; font-family: var(--font-heading); }
 .brand-text strong { font-weight: 700; font-size: 26px; }
 .brand-text span { font-weight: 500; font-size: 11px; letter-spacing: 0.32em; margin-top: 4px; }

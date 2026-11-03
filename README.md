@@ -29,7 +29,7 @@ Also update the phone link: change `tel:+10000000000` to the real number, like `
 ## Change the color scheme
 
 All colors live at the top of `styles.css`, in the `:root { ... }` block. Change the hex codes and the whole site updates.
-The logo has its own two colors, so also open `images/logo.svg` and change the roof color (`#D9541E`) and the H color (`#FFFFFF`) to match.
+The logo has its own two colors, so also open `images/logo.svg` and change the accent color (`#D9541E`, the roof and dots) and the ring/text color (`#F2F2EF`) to match.
 
 Other schemes from the design board:
 
